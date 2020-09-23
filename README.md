@@ -1,6 +1,4 @@
 # sujin2
- save coed for webprogramming
-
 <!DOCTYPE html>
 <html>
  <head>
